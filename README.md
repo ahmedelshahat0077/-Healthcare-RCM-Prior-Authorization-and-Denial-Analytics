@@ -1,3 +1,3 @@
 # Hospital-Insurance-Analysis
 
-<img width="400" height="223" alt="19-18-49" src="https://github.com/user-attachments/assets/1686458d-d183-465a-a67e-7fd42b8028b8" />
+<img width="1014" height="566" alt="19-18-49 (1)" src="https://github.com/user-attachments/assets/66116cb8-7551-45f6-bd19-1f69b1379fc0" />
