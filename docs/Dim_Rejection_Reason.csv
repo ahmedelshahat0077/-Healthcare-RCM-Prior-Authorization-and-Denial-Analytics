@@ -1,0 +1,8 @@
+Reason_ID,Rejection_Reason,Category,Responsible_Party
+RR-00,None (Approved),Approved,N/A
+RR-01,Lack of Medical Necessity,Clinical,Physician / Medical Coding
+RR-02,Missing Prior Authorization Document,Administrative,Insurance Admin Unit
+RR-03,Policy Expired / Inactive Coverage,Eligibility,Front Desk / Registration
+RR-04,Non-Covered Service / Medication,Coverage,Insurance Plan Limits
+RR-05,Duplicate Claim Request,Administrative,Billing Staff
+RR-06,Exceeded Category Annual Limit,Coverage,Patient Policy Limits

@@ -1,0 +1,6 @@
+Insurance_ID,Insurance_Provider,Payer_Type,SLA_Hours_Urgent,SLA_Hours_Routine
+INS-01,Daman,Government / Semi-Gov,4,24
+INS-02,Oman Insurance (Sukoon),Private,6,48
+INS-03,AXA Gulf (GIG),Private,4,24
+INS-04,MetLife,Private,8,48
+INS-05,ADNIC,Government / Semi-Gov,4,24
